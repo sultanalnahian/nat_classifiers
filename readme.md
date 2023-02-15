@@ -1,5 +1,5 @@
 # Naturalness Classifiers
-Source code repository for Infoseeking and Relevancy classifiers. In this code base I have trained and test two classifiers: Infoseeking and Relevancy. 
+Source code repository for Infoseeking and Relevancy classifiers which are used to measure the naturalness of open-ended conversational questions. In this code base I have trained and test two classifiers: Infoseeking and Relevancy. 
 
 **Infoseeking Classifier:** It detects if a question is answerable/non-answerable given the context.
 
@@ -46,10 +46,13 @@ Other parameters we can set:
 We can test our model with the pre-trained models. Pre-trained models can be found in the following links:
 
 ### infoseeking pre-trained model
-https://sanahian-intern2022.s3.amazonaws.com/infoseeking-pretrained-model/
+```
+Please contact for the link
+```
 ### relevancy pre-trained model
-https://sanahian-intern2022.s3.amazonaws.com/relevancy-pretrained-model/
-
+```
+Please contact for the link
+```
 We can test our models by importing Eval class of inference.py file.
 
 
